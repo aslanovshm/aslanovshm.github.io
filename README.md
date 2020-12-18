@@ -1,5 +1,7 @@
 # vue-wysiwyg
 
+Live Demo: https://aslanovshm.github.io/public/
+
 ## Project setup
 ```
 npm install
